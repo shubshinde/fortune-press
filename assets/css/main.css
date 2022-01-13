@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,500;1,400&display=swap");
+
+/* REset browser default styles */
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+html {
+	font-family: "Roboto", sans-serif;
+}
+
+li {
+	list-style: none;
+}
+
+a {
+	text-decoration: none;
+}
+p {
+	color: #666;
+}
+
+/* Content Style */
+
+.top-card-title {
+	color: #68b439;
+}
+
+.ask-button {
+	color: #68b439 !important;
+	font-size: 25px !important;
+	border: 2px solid #68b439 !important;
+}
